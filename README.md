@@ -1,7 +1,7 @@
 <div align="center">
 	<h2>TESTE PRÁTICO PROGRAMAÇÃO.</h2>
 	<p>Considerando que uma indústria possui as pessoas/funcionários abaixo:</p>
-  <img height=200 src="https://github.com/JecianeSilva/teste-projeto-java/assets/43557425/c760a70f-3650-4540-a94a-b3ce9970100a" alt="Tabela de dados"> 
+  <img height=300 src="https://github.com/JecianeSilva/teste-projeto-java/assets/43557425/c760a70f-3650-4540-a94a-b3ce9970100a" alt="Tabela de dados"> 
 </div>
 <div>
 <p align="center">
@@ -10,7 +10,6 @@
   <a href="https://github.com/JecianeSilva/teste-projeto-java/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JecianeSilva/teste-projeto-java" />
   </a>
-  <!-- <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen" /> -->
   <a href="https://github.com/JecianeSilva/teste-projeto-java/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/JecianeSilva/teste-projeto-java?style=social" />
   </a>
@@ -36,14 +35,14 @@
   3.11 – Imprimir o total dos salários dos funcionários.<br >
   3.12 – Imprimir quantos salários mínimos ganha cada funcionário, considerando que o salário mínimo é R$1212.00.
 </blockquote>
-<br >
+<br />
 
 ## Tecnologias
 
-- [Java]([https://www.typescriptlang.org](https://www.java.com/pt-BR/))
-- [Spring]([https://reactjs.org](https://spring.io/))
-<br >
+- [Java](<[https://www.typescriptlang.org](https://www.java.com/pt-BR/)>)
+- [Spring](<[https://reactjs.org](https://spring.io/)>)
+  <br />
 
 <div align="center">
-<p>Made by <a href="https://jecianesilva.github.io/">Jeciane Amorim</a></p>
+  <p>Made by <a href="https://jecianesilva.github.io/">Jeciane Amorim</a></p>
 </div>

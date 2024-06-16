@@ -69,7 +69,7 @@ public class ApiApplication implements CommandLineRunner {
     printTotalSalaries(totalSalaries);
 
     System.out.println("\n\n3.12 - Imprimir quantos salários mínimos ganha cada funcionário");
-    BigDecimal minimum = new BigDecimal("1412.00");
+    BigDecimal minimum = new BigDecimal("1212.00");
     Map<String, BigDecimal> salaryInMinimum = getSalaryInMinimum(minimum);
     printSalaryInMinimum(salaryInMinimum);
   }
